@@ -37,7 +37,7 @@ package com.zyp.interview.demo.algorithm.leetcode.postorderTraversal;
 //
 //
 // 进阶：递归算法很简单，你可以通过迭代算法完成吗？
-// Related Topics 栈 树 深度优先搜索 二叉树 👍 837 👎 0
+// Related Topics 栈 树 深度优先搜索 二叉树
 import java.util.ArrayList;
 import java.util.List;
 
